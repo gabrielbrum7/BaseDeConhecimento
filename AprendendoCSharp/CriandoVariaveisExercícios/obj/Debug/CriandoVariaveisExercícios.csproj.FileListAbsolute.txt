@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\AprendendoCSharp\CriandoVariaveisExercícios\bin\Debug\CriandoVariaveisExercícios.exe.config
+C:\Users\gabri\source\repos\AprendendoCSharp\CriandoVariaveisExercícios\bin\Debug\CriandoVariaveisExercícios.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\CriandoVariaveisExercícios\bin\Debug\CriandoVariaveisExercícios.pdb
+C:\Users\gabri\source\repos\AprendendoCSharp\CriandoVariaveisExercícios\obj\Debug\CriandoVariaveisExercícios.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AprendendoCSharp\CriandoVariaveisExercícios\obj\Debug\CriandoVariaveisExercícios.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\CriandoVariaveisExercícios\obj\Debug\CriandoVariaveisExercícios.pdb

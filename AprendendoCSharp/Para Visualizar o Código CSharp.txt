@@ -1,0 +1,3 @@
+Em cada pasta de projeto, existe o arquivo "Program".
+Abra ele com o bloco de notas.
+Você conseguirá visualizar o código fonte do C#.
