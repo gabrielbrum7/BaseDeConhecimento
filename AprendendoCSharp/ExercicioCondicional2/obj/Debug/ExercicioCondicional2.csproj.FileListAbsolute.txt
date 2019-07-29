@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioCondicional2\bin\Debug\ExercicioCondicional2.exe.config
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioCondicional2\bin\Debug\ExercicioCondicional2.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioCondicional2\bin\Debug\ExercicioCondicional2.pdb
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioCondicional2\obj\Debug\ExercicioCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioCondicional2\obj\Debug\ExercicioCondicional2.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioCondicional2\obj\Debug\ExercicioCondicional2.pdb

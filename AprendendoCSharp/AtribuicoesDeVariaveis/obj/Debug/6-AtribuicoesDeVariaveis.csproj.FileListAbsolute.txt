@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe.config
+C:\Users\gabri\source\repos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\AtribuicoesDeVariaveis.pdb
+C:\Users\gabri\source\repos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\6-AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\AtribuicoesDeVariaveis.pdb
