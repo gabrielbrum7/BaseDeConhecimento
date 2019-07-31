@@ -1,0 +1,6 @@
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaEscopo\bin\Debug\ExercicioTestaEscopo.exe.config
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaEscopo\bin\Debug\ExercicioTestaEscopo.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaEscopo\bin\Debug\ExercicioTestaEscopo.pdb
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaEscopo\obj\Debug\ExercicioTestaEscopo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaEscopo\obj\Debug\ExercicioTestaEscopo.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaEscopo\obj\Debug\ExercicioTestaEscopo.pdb

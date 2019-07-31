@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\bin\Debug\ExercicioTestaCondicional2.exe.config
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\bin\Debug\ExercicioTestaCondicional2.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\bin\Debug\ExercicioTestaCondicional2.pdb
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\obj\Debug\ExercicioTestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\obj\Debug\ExercicioTestaCondicional2.exe
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\obj\Debug\ExercicioTestaCondicional2.pdb
+C:\Users\gabri\source\repos\AprendendoCSharp\ExercicioTestaCondicional2\obj\Debug\ExercicioTestaCondicional2.csprojAssemblyReference.cache
