@@ -11,7 +11,7 @@ arg = sys.argv[1]
 
 url = 'https://suportevendasb2w.zendesk.com/api/v2/views/'+arg+'/tickets.json'
 user = 'gabriel.brum@ideais.com.br'
-pwd = 'metropoliszendesk'
+pwd = 'senha'
 
 response = requests.get(url, auth=(user, pwd))
 
