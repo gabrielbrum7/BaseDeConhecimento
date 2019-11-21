@@ -5,7 +5,7 @@ SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
  
 sender = 'gabriel.brum@ideais.com.br'
-password = 'metropolisideais'
+password = 'senha'
 
 recipient = ['bernardo.franco@ideais.com.br', 'jeferson.farias@ideais.com.br', 'luciano.baiense@ideais.com.br', 'aluan.costa@ideais.com.br', 'mauricio.araujo@ideais.com.br', 'monique.lemos@ideais.com.br', 'marcus.assis@ideais.com.br', 'alexandre.coimbra@ideais.com.br', 'service.desk@ideais.com.br']
 
