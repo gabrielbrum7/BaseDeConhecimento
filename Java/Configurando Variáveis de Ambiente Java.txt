@@ -1,0 +1,37 @@
+Configurando Variáveis de Ambiente Java (Windows)
+
+https://www.devmedia.com.br/preparacao-do-ambiente-para-desenvolvimento-em-java/25188
+
+Depois de ter feito os passos do tutorial acima:
+
+	Testando no prompt de comando com um HelloWorld:
+
+1. Abra um arquivo novo no bloco de notas, salvando como HelloWorld.java
+
+2. Digite o programa dentro dele, segue-se o mesmo:
+
+
+public class HelloWorld {
+	
+	public static void main (String[] args) {
+		
+		System.out.println("Hello World!");
+	}
+}
+
+
+3. Vá (no prompt de comando) até o caminho do programa criado, vamos criar a clase e executá-lo.
+
+comando:
+
+cd caminho-do-diretório
+
+4. Digite no prompt de comando:
+
+javac HelloWorld.java //Geralmente no Java, o nome do arquivo é salvo com o nome da classe.
+
+5. Depois, para executar o programa:
+
+java HelloWorld
+
+Pronto, você conseguiu executar o programa! isso significa que a variável de ambiente foi instalada com sucesso.
