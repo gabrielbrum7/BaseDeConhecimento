@@ -39,6 +39,14 @@ public class Pagina46 {
 			} 			
 			
 		}*/
+		
+		// 4) Imprima os fatoriais de 1 a 10.
+		
+		int fatorial = 1;
+		
+		for (int n = 0; n <= 10; n++) {
+
+		}
 						
 	}
 }
